@@ -1,4 +1,4 @@
-module HLS
+module HarmonizedLandsatSentinel
 
 using Crayons.Box
 using Logging
